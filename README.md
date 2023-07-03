@@ -1,5 +1,4 @@
 # Introduction to Web APIs - LinkedinLearning
 
-Course by Andrew Probert &rarr; www.linkedin.com/learning/learning-the-javascript-language-22309208
-
+Course by Andrew Probert &rarr; https://www.linkedin.com/learning/introduction-to-web-apis-22019269 
 
